@@ -319,20 +319,20 @@ pyflakes = ">=3.2.0,<3.3.0"
 
 [[package]]
 name = "furo"
-version = "2024.1.29"
+version = "2024.5.6"
 description = "A clean customisable Sphinx documentation theme."
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "furo-2024.1.29-py3-none-any.whl", hash = "sha256:3548be2cef45a32f8cdc0272d415fcb3e5fa6a0eb4ddfe21df3ecf1fe45a13cf"},
-    {file = "furo-2024.1.29.tar.gz", hash = "sha256:4d6b2fe3f10a6e36eb9cc24c1e7beb38d7a23fc7b3c382867503b7fcac8a1e02"},
+    {file = "furo-2024.5.6-py3-none-any.whl", hash = "sha256:490a00d08c0a37ecc90de03ae9227e8eb5d6f7f750edf9807f398a2bdf2358de"},
+    {file = "furo-2024.5.6.tar.gz", hash = "sha256:81f205a6605ebccbb883350432b4831c0196dd3d1bc92f61e1f459045b3d2b0b"},
 ]
 
 [package.dependencies]
 beautifulsoup4 = "*"
 pygments = ">=2.7"
 sphinx = ">=6.0,<8.0"
-sphinx-basic-ng = "*"
+sphinx-basic-ng = ">=1.0.0.beta2"
 
 [[package]]
 name = "idna"
@@ -1170,4 +1170,4 @@ testing = ["big-O", "jaraco.functools", "jaraco.itertools", "more-itertools", "p
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.8.1"
-content-hash = "4fb67da50f7eff8a449434f63d6dc454c2520601aa6efb44db892ea1cc46768b"
+content-hash = "f381a3201afebe4c05ea36b28f5784260b63fe71539dc6c9b9fbc8c0459f9900"
