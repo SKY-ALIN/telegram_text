@@ -23,7 +23,7 @@ python = "^3.8.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^8.2.1"
-pylint = "^3.2.2"
+pylint = "^3.2.5"
 pytest-cov = "^5.0.0"
 Sphinx = "^7.1.2"
 flake8 = "^7.0.0"
